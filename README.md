@@ -1,2 +1,3 @@
-# Cifar-10-CNN
-Training CNN on cigar-10 dataset
+Implement NN and CNN architectures from scracth. 
+
+Measure performances on Cifar-10 dataset
